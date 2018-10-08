@@ -1,0 +1,6 @@
+title: Identibyte blog
+logo: /assets/img/logo.png
+description: The Identibyte Blog. Identibyte identifies disposable and free emails in your forms.
+theme: jekyll-theme-minimal
+permalink: /:title
+
